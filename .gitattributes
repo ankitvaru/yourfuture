@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+ <footer role='contentinfo'>
+  <p><center>
+    &copy; Your Future and its contributors are<br>
+    Made with <span style="font-family: initial;">&#10084;</span> by <a href='https://www.google.com'>@your future</a>
+  </center></p>
+  
+</footer>
