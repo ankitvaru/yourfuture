@@ -1,10 +1,33 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+		<title> Your Future</title>
 </head>
-<body>
-	<h4>Contact Us</h4><hr>
+<body background="C:\Users\Lenovo\Desktop\iii.png">
+	<h1 style="background-color: #ee82ee;">
+		<b>
+			<center>
+				<i>
+					
+						<ins> WELCOME TO YOUR FUTURE</ins>
+					
+				</i>
+			</center>
+	</h1>
+	<img src="">
+	<h3>your future</h3>
+	<pre style="font-size: 150%">Don’t let past disappointments determine your future life.
+ Nothing you have or have failed to do in the past can
+ stop you from creating a hugely <abbr title="successful future">SF</abbr>, starting right now.
+
+Make the commitment to leave the past behind. 
+You should only use it as motivation to push you forward. 
+You are more than capable of becoming successful,
+ just remember Your Past Doesn’t Define Your Future,
+  believe in yourself and TAKE ACTION!</pre>
+
+<iframe  style="float: right;" width="560" height="315" src="https://www.youtube.com/embed/zJqxk8ggRFE" frameborder="50%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+
+	<h4 style="font-size: 150%">Personal Information</h4>
   <form>
 	   First name:<br>
 	   <input type="text" name="FirstName"><br>
@@ -15,17 +38,17 @@
 	   Phone No:<br>
 	   <input type="text" name="phoneno"><br>
 	   Date of Birth:<br>
-	   <input type="date" name="bday" max="2019-01-01"><br><br><hr>
+	   <input type="date" name="bday" max="2019-01-01"><br><br>
 	   <input type="radio" name="gender" value="male"checked>Male<br>
        <input type="radio" name="gender" value="female">Female<br>
-       <input type="radio" name="gender" value="other"> other<br><hr>
+       <input type="radio" name="gender" value="other"> other<br>
        <select name="City" size="4">
 		<option selected>New Delhi"</option>
 		<option value="Mumbai">Mumbai</option>
 		<option value="Pune">Pune</option>
 		<option value="hydrabad">hydrabad</option>
 		<option value="Nagpur">Nagpur</option>
-	   </select><br><hr>
+	   </select><br>
 
 	   <form>
 	<input type="checkbox" name="Course1" value="Front-end Development"> Front-end Development<br>
@@ -35,9 +58,10 @@
 	<input type="checkbox" name="Course5" value="Internet Security"> Internet Security<br>
 	<input type="checkbox" name="Course6" value="Web Application Development"> Web Application Development<br>
 </form>
+<button>SUBMIT</button>
 
 </form>
-<hr>
+
 <p>Click the button to get your coordinates.</p>
 
 <button onclick="getLocation()">Try It</button>
@@ -60,16 +84,13 @@ function showPosition(position) {
   "<br>Longitude: " + position.coords.longitude;
 }
 </script>
-<hr>
- <object width="50%" height="500px" data="TED.html"> </object>
 
+ <object width="50%" height="500px" data="gis.html"> </object>
  <footer role='contentinfo'>
   <p><center>
     &copy; Your Future and its contributors are<br>
     Made with <span style="font-family: initial;">&#10084;</span> by <a href='https://www.google.com'>@your future</a>
   </center></p>
 </footer>
-
-
 </body>
 </html>
