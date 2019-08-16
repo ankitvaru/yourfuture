@@ -1,7 +1,19 @@
- <footer role='contentinfo'>
-  <p><center>
-    &copy; Your Future and its contributors are<br>
-    Made with <span style="font-family: initial;">&#10084;</span> by <a href='https://www.google.com'>@your future</a>
-  </center></p>
-  
-</footer>
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Your Future</title>
+</head>
+<body background="C:\Users\Lenovo\Desktop\download.jpg">
+	<h1>
+		<b>
+			<center>
+				<i>
+					<marquee>
+						<ins> WELCOME TO YOUR FUTURE</ins>
+					</marquee>
+				</i>
+			</center>
+	</h1>
+
+</body>
+</html>
