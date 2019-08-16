@@ -60,15 +60,16 @@ function showPosition(position) {
   "<br>Longitude: " + position.coords.longitude;
 }
 </script>
-
-</body>
-</html>
+<hr>
+ <object width="50%" height="500px" data="TED.html"> </object>
 
  <footer role='contentinfo'>
   <p><center>
     &copy; Your Future and its contributors are<br>
     Made with <span style="font-family: initial;">&#10084;</span> by <a href='https://www.google.com'>@your future</a>
   </center></p>
-  <object width="50%" height="500px" data="TED.html"> </object>
-  
 </footer>
+
+
+</body>
+</html>
